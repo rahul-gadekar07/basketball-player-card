@@ -9,7 +9,7 @@ This project is a React component that displays information about a basketball p
 1. Clone the repository:
 
    ```bash
-git clone https://github.com/your-username/basketball-player-card.git
+   git clone https://github.com/your-username/basketball-player-card.git
 
    ```
 
